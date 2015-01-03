@@ -1,0 +1,36 @@
+# Linux命令行及bash相关的笔记
+
+这是我的笔记梳理, 删掉旧版本, 重新梳理中.....doing
+
+当前进度: 0%
+
+
+### 目录
+
+梳理中....
+
+
+
+
+### Change Log
+
+    2012-09-02 刚毕业, 学习linux, 梳理完成第一版本
+    2015-01-03 删掉重整, rework
+
+### Donation
+
+如果你觉得我的项目对你有所帮助, You can buy me a coffee:)
+
+![donation](https://raw.githubusercontent.com/wklken/gallery/master/donation/donation.png)
+
+---------------
+
+wklken(Pythonista/Vimer)
+
+Email: wklken@yeah.net
+
+Blog: http://www.wklken.me
+
+Github: https://github.com/wklken
+
+2015-01-03 于深圳
