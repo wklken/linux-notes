@@ -23,3 +23,6 @@
 [files and dirs](file_and_dir.md)
 
 
+- vim
+[vim](vim.md)
+
