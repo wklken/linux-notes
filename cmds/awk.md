@@ -280,3 +280,7 @@ $ awk -F ':' -v 'OFS=:'  '{$3=toupper($3);print $0;}' data.txt
 涉及数组/复杂表达式等更复杂的情况, 建议上`python/ruby/perl`
 
 
+## 资料
+
+- [awk简明教程](http://coolshell.cn/articles/9070.html)
+
