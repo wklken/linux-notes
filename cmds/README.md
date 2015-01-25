@@ -22,6 +22,10 @@
 `touch, ln, rm, mv, cp, cat, head, tail, wc, file, basename, readlink, diff, comm, cmp, ls, mkdir, rmdir, pwd, cd, tree`
 [files and dirs](file_and_dir.md)
 
+- 文件搜索
+`find`
+[find](find.md)
+
 
 - vim
 [vim](vim.md)
